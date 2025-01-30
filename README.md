@@ -13,13 +13,20 @@ Proses dalam crimping kabel LAN
 Alat dan Bahan 
 
 1. Kabel UTP
-   ![kabel utp](https://github.com/user-attachments/assets/a6e32318-240d-4fd2-b908-5898e578ddef)
+
+    ![kabel utp](https://github.com/user-attachments/assets/a6e32318-240d-4fd2-b908-5898e578ddef)
+
 2. Konektor RJ45
-   ![rj 45](https://github.com/user-attachments/assets/59a94948-f1e0-4e4d-b1f6-e043ca1621e4)
-3. Crimping
-   ![crimping tool](https://github.com/user-attachments/assets/830b9f2d-34f6-4640-9782-a8ec815edb7f)
-4. LAN Kabel Tester
-   ![lan kabel tester](https://github.com/user-attachments/assets/f05be292-9625-4a07-8447-219e6440eff7)
+
+    ![rj 45](https://github.com/user-attachments/assets/59a94948-f1e0-4e4d-b1f6-e043ca1621e4)
+
+4. Crimping
+
+    ![crimping tool](https://github.com/user-attachments/assets/830b9f2d-34f6-4640-9782-a8ec815edb7f)
+
+5. LAN Kabel Tester
+
+    ![lan kabel tester](https://github.com/user-attachments/assets/f05be292-9625-4a07-8447-219e6440eff7)
 
 
 
