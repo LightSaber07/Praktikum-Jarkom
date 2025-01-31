@@ -47,6 +47,16 @@ Alat dan Bahan
 
   ![hasil](https://github.com/user-attachments/assets/39ddf615-4571-4a09-a342-fbc547d972f9)
 
+- *straight*
+
+  ![straight](https://github.com/user-attachments/assets/94f6c92b-a8ae-4707-87d6-dd4e3aef6e4f)
+
+- *cross*
+
+  ![cross](https://github.com/user-attachments/assets/a49a5544-a817-43d5-8b7b-9c9dcbb9fbc8)
+
+
+
 
 ---
 
