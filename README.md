@@ -60,7 +60,7 @@ Alat dan Bahan
 ## Analisis Percobaan  
 
 
-Setelah kedua ujung kabel terpasang dengan konektor RJ-45, gun![Uploading crimping tool.jpeg…]()
+Setelah kedua ujung kabel terpasang dengan konektor RJ-45, gun
 akan alat penguji
 kabel (tester) untuk memeriksa kabel. Sambungkan kedua ujung kabel ke tester.
 Perhatikan indikator lampu pada tester. Jika semua lampu dari 1 hingga 8 pada
