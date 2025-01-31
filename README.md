@@ -14,20 +14,38 @@ Alat dan Bahan
 
 1. Kabel UTP
 
-    ![kabel utp](https://github.com/user-attachments/assets/a6e32318-240d-4fd2-b908-5898e578ddef)
+    ![kabel utp (1)](https://github.com/user-attachments/assets/414eb4dd-a02f-477e-b1c8-b3522c965d8e)
+
 
 2. Konektor RJ45
 
-    ![rj 45](https://github.com/user-attachments/assets/59a94948-f1e0-4e4d-b1f6-e043ca1621e4)
+   ![rj 45 (1)](https://github.com/user-attachments/assets/5978688a-68ac-462c-b902-a9bb355acc9e)
+
 
 4. Crimping
 
-    ![crimping tool](https://github.com/user-attachments/assets/830b9f2d-34f6-4640-9782-a8ec815edb7f)
+![crimping](https://github.com/user-attachments/assets/52d499aa-d640-4646-b3bf-56141185dfe8)
 
+   
 5. LAN Kabel Tester
 
-    ![lan kabel tester](https://github.com/user-attachments/assets/f05be292-9625-4a07-8447-219e6440eff7)
+   
+![tester](https://github.com/user-attachments/assets/d3ca0252-4f72-4986-8429-2eb8b1bcd10c)
 
+
+## Percobaan
+
+- *susun kabel*
+
+ ![susun kabel](https://github.com/user-attachments/assets/1189c1db-28f2-448c-ad02-4d8cd8cef5a2)
+
+- *press kabel*
+
+  ![press](https://github.com/user-attachments/assets/424e5c65-fce4-4e08-b628-474bf74f58fc)
+
+- *hasil percobaan*
+
+  ![hasil](https://github.com/user-attachments/assets/39ddf615-4571-4a09-a342-fbc547d972f9)
 
 
 ---
